@@ -1,0 +1,11 @@
+E:\DESKTOP\gheptranh\Image Puzzle\puzzle\bin\Debug\puzzle.exe.config
+E:\DESKTOP\gheptranh\Image Puzzle\puzzle\bin\Debug\puzzle.exe
+E:\DESKTOP\gheptranh\Image Puzzle\puzzle\bin\Debug\puzzle.pdb
+E:\DESKTOP\gheptranh\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.AssemblyReference.cache
+E:\DESKTOP\gheptranh\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.SuggestedBindingRedirects.cache
+E:\DESKTOP\gheptranh\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.frmPuzzleGame.resources
+E:\DESKTOP\gheptranh\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\DESKTOP\gheptranh\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.GenerateResource.cache
+E:\DESKTOP\gheptranh\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.CoreCompileInputs.cache
+E:\DESKTOP\gheptranh\Image Puzzle\puzzle\obj\x86\Debug\puzzle.exe
+E:\DESKTOP\gheptranh\Image Puzzle\puzzle\obj\x86\Debug\puzzle.pdb
